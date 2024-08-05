@@ -73,3 +73,7 @@ As evidências de teste foram geradas em formato MP4 e armazenadas no Google Dri
 ### Organização do Repositório
 
 O repositório foi organizado para conter todas as informações necessárias para a avaliação do desafio, incluindo a documentação da user story, os casos de teste, as evidências de teste e os links para os documentos no Google Docs e Drive.
+
+### Teste nao validado
+
+Teste relacionado ao numero limite de caracteres por campo, com base nesse teste surgiu a melhoria e duvida ao desenvolvedor quanto a quantidade maxima em cada campo.
